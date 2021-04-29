@@ -27,4 +27,9 @@
 ## 4.作业4
 作业4描述：本图统计了自2011年到2020年的国家GDP、第二产业增加值、第三产业增加值的数据，可以从图中看到GDP的变化，以及三大产业分别对GDP增长的贡献比例，可以有助于我们理解中国目前的经济发展的主要推动力量来自于哪个产业。
 
-[作业4链接](https://heliotropepi.github.io/grid_multi_yaxis_GDP.html)
+[作业4链接](https://heliotropepi.github.io/cat cafe.html)
+
+## 7.作业7
+作业7描述：
+
+[作业7链接](https://heliotropepi.github.io/grid_multi_yaxis_GDP.html)
