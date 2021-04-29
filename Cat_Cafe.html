@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>标题</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<meta charset="UTF-8">
+<style>
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Sofia";
+    margin: 10;
+    font-size: 25px;
+}
+
+/* 标题 */
+.header {
+    padding: 70px;
+    text-align: center;
+    color: pink;
+}
+
+/* 标题字体加大 */
+.header h1 {
+    font-size: 50px;
+}
+
+/* 导航 */
+.navbar {
+    overflow: hidden;
+    background-color: brown;
+}
+
+/* 导航栏样式 */
+.navbar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 40px;
+}
+
+
+/* 列容器 */
+.row {  
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+}
+
+/* 创建两个列 */
+/* 边栏 */
+.side {
+    -ms-flex: 20%; /* IE10 */
+    flex: 20%;
+    background-color: pink;
+    padding: 20px;
+ line-height: 50px;
+}
+
+/* 主要的内容区域 */
+.main {   
+    -ms-flex: 80%; /* IE10 */
+    flex: 80%;
+    background-color: white;
+    padding: 20px;
+}
+
+/* 底部 */
+.footer {
+    padding: 5px;
+    text-align: center;
+    background: #ddd;
+}
+
+
+</style>
+</head>
+<body background="https://th.bing.com/th/id/Rda9d6cf8335112964c304e4a18622bcc?rik=RZVwonPLuUYpog&riu=http%3a%2f%2fpicture.ik123.com%2fuploads%2fallimg%2f160120%2f3-160120142005.jpg&ehk=w7ibKQog8vXdAxwxyLvhAhqpRG0%2fPCHwNfyBNFGt%2b4o%3d&risl=&pid=ImgRaw">
+
+<div class="header" >
+  <h1>welcome to Cat Cafe  </h1>
+  <p>do you want a cup of coffee?</p>
+</div>
+
+<div class="navbar">
+  <a href="#">menu</a>
+  <a href="#">cat family</a>
+</div>
+
+<div class="row">
+  <div class="side">
+      <h2 style="font-size:60px;">Menu</h2>
+      <h5 >Americano</h5>
+      <h5 >Cappucino</h5>
+      <h5 >Frappé</h5>
+      <h5>Latte</h5>
+      <h5>Lemonade</h5>
+      <h5>Macchiato</h5>
+      <h5>Mocha</h5>
+      <br/>
+      <h3>click to pick your favorite one!</h3>
+  </div>
+
+  <div class="main">
+      <h2>Cat Cafe's family member</h2>
+      <h5>① 果冻</h5>
+      <img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/7a899e510fb30f243d6dbf5bca95d143ac4b03f6.jpg" width="500" height="300" />
+      <br>
+      <h5>② 肉包</h5>
+      <img src="https://tse4-mm.cn.bing.net/th/id/OIP.k4kikD3mfNcj6h8cM6YcSwHaGc?pid=ImgDet&rs=1" width="500" height="400" />
+      <br>
+      <h5>③ 团子</h5>
+      <img src="https://th.bing.com/th/id/Rd01379e81ce79330aa7d0ba5a4223b5a?rik=1LgXDncbm8c7TQ&riu=http%3a%2f%2fimg.ivsky.com%2fimg%2ftupian%2fpre%2f201010%2f07%2fmiaoshu-047.jpg&ehk=lHZIle3I8mUVLOTki%2foWPKlnMsFqR85QPKoV5CJj0Jo%3d&risl=&pid=ImgRaw" width="500" height="400" />
+       <br>
+      <h5>④ 小可</h5>
+      <img src="https://tse3-mm.cn.bing.net/th/id/OIP.aIgKRColYlPIPO-H6RXJdwHaEK?pid=ImgDet&rs=1" width="500" height="300" />
+       <br>
+      <h5>⑤ 薏米</h5>
+      <img src="https://th.bing.com/th/id/Ra8ca259aba1a8180ee447ba5ccde34b5?rik=0xXL58MmTukm4g&riu=http%3a%2f%2fimage.namedq.com%2fuploads%2f20200330%2f14%2f1585550481-qpigHZuSIF.jpg&ehk=O%2foiki9P9C8ku3MqBhkwMtEFi6n8RW7l5cONgRntRP8%3d&risl=&pid=ImgRaw" width="500" height="330" />
+  </div>
+</div>
+
+<div class="footer">
+  <h2>our address</h2>
+<h3>Room 304,  Wangfujing Department Store, Beijing</h3>
+</div>
+
+</body>
+</html>
