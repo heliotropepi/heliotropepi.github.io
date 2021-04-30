@@ -32,9 +32,12 @@
 ## 5.作业5
 作业5描述：
 
-[作业5链接](https://heliotropepi.github.io/百度搜索cat.html)
+[作业5链接](https://heliotropepi.github.io/关系图-分类-笑傲江湖.html)
 
+## 6.作业6
+作业5描述：
 
+[作业5链接](https://heliotropepi.github.io/cat_search.html)
 
 ## 7.作业7
 作业7描述：
