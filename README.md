@@ -16,9 +16,17 @@
 
 [词云链接:2010-2015年词频数超过200的关键词统计](https://heliotropepi.github.io/wordcloud_keyword(morethan200)_date2010-2015.html)
 
+#### ②timeline+饼图：
+timeline+饼图能给予我们一个观察关键词频次逐年变化趋势的视角，适用于进行一个纵向的呈现，给予我们一个学科前沿关注重点的逐年变化趋势的认识。
 
+[timeline+pie链接:2016-2021年逐年词频数超过1000的关键词统计](https://heliotropepi.github.io/timeline_pie_yearly(morethan1000).html)
 
+[timeline+pie链接:2010-2021年逐年词频数超过500的关键词统计](https://heliotropepi.github.io/timeline_pie_yearly_2010-2021(morethan500).html)
 
+[timeline+pie链接:2010-2016年逐年词频数超过200、2016-2021年逐年词频数超过500的关键词统计](https://heliotropepi.github.io/timeline_pie_yearly_2010-2021(morethan200).html)
+
+#### 分析：
+从词云和timeline+pie图中我们可以看到，
 
 
 
